@@ -1,0 +1,32 @@
+body
+{
+	background-color: #4c5b61;
+	font-family: 'Lato', sans-serif;
+}
+
+#con {
+    background-color: #ffffff;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#napis {
+    padding-left: 10px;
+    padding-right: 10px;
+text-align: center;
+background-color: #2c423f;
+padding-bottom: 1px;
+padding-top: 1px;
+
+
+}
+
+#form  {
+
+padding-left: 30%;
+padding-top: 30px;
+height: 300px;
+
+}
